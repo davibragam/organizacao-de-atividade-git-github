@@ -1,2 +1,2 @@
-# organizacao-de-atividade-git-github
-Repositório para organização de atividades do bootcamp da DIO.
+# Atividades do DIO utilizando o Git/Github
+ - Repositório para organização de atividades do bootcamp da DIO.
